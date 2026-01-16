@@ -55,13 +55,14 @@
 
 <h2 align="center">Tools & Platforms</h2>
 <p align="center">
-  <img src="https://cdn.svglogos.dev/logos/apache.svg" width="50" height="50" style="vertical-align:middle;" />
   <img src="https://cdn.svglogos.dev/logos/microsoft-windows-icon.svg" width="50" height="50" style="vertical-align:middle;" />
   <img src="https://cdn.svglogos.dev/logos/linux-tux.svg" width="50" height="50" style="vertical-align:middle;" />
   <img src="https://cdn.svglogos.dev/logos/visual-studio-code.svg" width="50" height="50" style="vertical-align:middle;" />
   <img src="https://cdn.svglogos.dev/logos/adobe-photoshop.svg" width="50" height="50" style="vertical-align:middle;" />
   <img src="https://cdn.svglogos.dev/logos/adobe-lightroom.svg" width="50" height="50" style="vertical-align:middle;" />
   <img src="https://cdn.svglogos.dev/logos/adobe-premiere.svg" width="50" height="50" style="vertical-align:middle;" />
+  <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2152768745/settings_images/fe5dd0-b074-4d85-24df-b1f6772d0243_3c6cbce2-7727-4162-ac55-bfd8476ae814.png" width="50" height="50" style="vertical-align:middle;" />
+  <img src="https://images.seeklogo.com/logo-png/15/2/zbrush-logo-png_seeklogo-155828.png" width="50" height="50" style="vertical-align:middle;" />
 </p>
 
 
