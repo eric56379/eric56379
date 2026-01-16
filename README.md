@@ -130,11 +130,3 @@
 - 📚 Dean’s List (2020–2022)
 
 ---
-
-<div align="center">
-
-**Open to Software Engineering Pathways, Data Science, Machine Learning, and Security-Focused Roles**
-
-[![GitHub Followers](https://img.shields.io/github/followers/EricNieters?style=social)](https://github.com/)
-
-</div>
