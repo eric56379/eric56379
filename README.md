@@ -77,8 +77,8 @@
   - Trained on **250 Bach compositions**
   - Post-processing: motif tracking & rhythm enhancement
   - Skills used: **Python | TensorFlow | Keras**
-  - [GitHub link](https://github.com/eric56379/algo-music-gen-python)
-  - Publication Link (Coming Soon)
+  - [GitHub Repo](https://github.com/eric56379/algo-music-gen-python)
+  - [Publication Link](https://www.proquest.com/docview/3297286759?sourcetype=Dissertations%20&%20Theses)
 </details>
 
 <details>
@@ -88,8 +88,8 @@
   - Measured learning gains via pre/post assessment
   - Student-driven iteration and feedback analysis
   - Skills used: **C | Python | Jupyter | Bash**
-  - [GitHub link](https://github.com/UMDLARS/sphere)
-  - Publication Link (Coming Soon)
+  - [GitHub Repo](https://github.com/UMDLARS/sphere)
+  - [Publication Link](https://www.proquest.com/docview/3297300458/previewPDF/AAE3C1B5D4374839PQ/1?sourcetype=Dissertations%20&%20Theses)
 </details>
 
 <details>
